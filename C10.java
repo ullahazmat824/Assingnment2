@@ -1,13 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author Azmat Chand
- */
+o sally parh v lia kr chor dy bchio ki jaan 
+awwe mr jayga
+*/
 import java.util.Scanner;
 
 

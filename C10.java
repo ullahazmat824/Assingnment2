@@ -1,6 +1,5 @@
 /*
-o sally parh v lia kr chor dy bchio ki jaan 
-awwe mr jayga
+thank for watching i know about vcn
 */
 import java.util.Scanner;
 
